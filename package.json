@@ -1,0 +1,27 @@
+{
+  "name": "sql-lab09",
+  "version": "1.0.0",
+  "description": "Node, npm and Express # Project Name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjimmy2512/sql-lab09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjimmy2512/sql-lab09/issues"
+  },
+  "homepage": "https://github.com/rjimmy2512/sql-lab09#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "superagent": "^5.1.0"
+  }
+}
